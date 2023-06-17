@@ -1,6 +1,3 @@
 [submodule "assignment-autotest"]
 	path = assignment-autotest
 	url = https://github.com/cu-ecen-5013/assignment-autotest
-[submodule "2022.02.x"]
-	path = 2022.02.x
-	url = https://git.busybox.net/buildroot/
